@@ -4,5 +4,5 @@ end
 
 if getgenv().Medusa then
     script_key = getgenv().Medusa['Core']['License']
-    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/2f9ea9ade91feaaa5f061b7821549676.lua"))()
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a808dcd21411ea5c30f5c7452fc5dd90.lua"))()
 end
